@@ -24,3 +24,4 @@ def solution(N):
             return number_of_zeros
     return 0                               #No amount of zeros have been matches
 
+#Task score = 100%
